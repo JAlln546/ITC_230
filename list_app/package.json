@@ -1,0 +1,10 @@
+"name": "list_app",
+"description": "Adv Javascript file",
+"version": "1.0.0",
+"main": "index.js",
+
+"repository": {
+  "type": "git",
+  "url": "https://github.com/JAlln546/ITC_230.git"
+},
+"author": "Jess Allen"
