@@ -37,4 +37,4 @@ const http = require("http"), fs = require('fs');
     //res.writeHead(200, {'Content-Type': 'text/plain'});
     //res.end('Aloha world');
   }).listen(process.env.PORT || 3000);
-    console.log("2 - after createServer");
+    //console.log("2 - after createServer");
