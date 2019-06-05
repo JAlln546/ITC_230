@@ -1,1 +1,35 @@
-
+{
+  "name": "itc_230",
+  "version": "1.0.0",
+  "description": "itc_230 work",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "Is this working"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAlln546/ITC_230.git"
+  },
+  "keywords": [
+    "json",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Jess Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAlln546/ITC_230/issues"
+  },
+  "homepage": "https://github.com/JAlln546/ITC_230#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.1.2",
+    "multer": "^1.4.1"
+  }
+}
